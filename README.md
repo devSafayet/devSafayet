@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm MARN Web Developer.</div>  
+### <div align="center">I'm MERN Stack Developer.</div>  
   
 
 -  I am a student of computer engineering.  
